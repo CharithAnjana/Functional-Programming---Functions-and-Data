@@ -1,4 +1,4 @@
-object Q1 extends App {
+object Q4 extends App {
 
   val overdraft = (b:List[Account]) => b.filter(x => x.balance < 0)
 
