@@ -1,4 +1,4 @@
-object Q1 extends App {
+object Q3 extends App {
   val acc1 = new Account("37", 100, 23000)
   val acc2 = new Account("73", 105, 90220)
 
